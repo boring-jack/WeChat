@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="weChatSecurity">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="weChatSecurity.jar">
+      <element id="module-output" name="MySecurityFrame" />
+    </root>
+  </artifact>
+</component>
